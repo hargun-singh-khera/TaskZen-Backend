@@ -1,6 +1,6 @@
-# Workasana Backend
+# TaskZen Backend
 
-Workasana Backend is the REST API service for the Workasana project management app. It handles user authentication, project management, task tracking, team management, tags, and reporting data for the Workasana frontend.
+TaskZen Backend is the REST API service for the TaskZen project management app. It handles user authentication, project management, task tracking, team management, tags, and reporting data for the TaskZen frontend.
 
 Built with Node.js, Express, MongoDB, Mongoose, and JWT-based authentication.
 
@@ -8,9 +8,9 @@ Built with Node.js, Express, MongoDB, Mongoose, and JWT-based authentication.
 
 ## Demo Link
 
-Backend API: `https://workasana-backend-wheat.vercel.app`
+Backend API: `https://taskzen-backend-wheat.vercel.app`
 
-Frontend Repository: `https://github.com/hargun-singh-khera/Workasana.git`
+Frontend Repository: `https://github.com/hargun-singh-khera/TaskZen.git`
 
 ---
 
@@ -27,8 +27,8 @@ Authorization: <token>
 ## Quick Start
 
 ```bash
-git clone https://github.com/hargun-singh-khera/Workasana-Backend.git
-cd Workasana-Backend
+git clone https://github.com/hargun-singh-khera/TaskZen-Backend.git
+cd TaskZen-Backend
 npm install
 npm run dev
 ```
@@ -109,7 +109,7 @@ Do not commit real database credentials or production secrets to GitHub.
 Base URL:
 
 ```bash
-https://workasana-backend-wheat.vercel.app
+https://taskzen-backend-wheat.vercel.app
 ```
 
 For local development:
